@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.sass"
+	],
+	"sourcesContent": [
+		"h1 {\n     color: red;\n     font-size: 50px; }\n\n\n.block {\n    background-color: black; }\n\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,EAAE,CAAC;EACE,KAAK,EAAE,GAAG;EACV,SAAS,EAAE,IAAI;CAAG;;;AAGvB,AAAA,MAAM,CAAC;EACH,gBAAgB,EAAE,KAAK;CAAG"
+}
